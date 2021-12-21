@@ -1,0 +1,25 @@
+body {
+    display: flex;
+    flex-direction:column;
+    justify-content:space-around;
+    align-items: center;
+}
+/* .logos-list {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    max-height: 30vh;
+    overflow-y: auto;
+} */
+.logos-image {
+    width: 15vw;
+    height: 10vw;
+}
+.details-image{
+    width: 400px;
+   }
+   .main-content{
+       margin: 0 auto;
+   }
+
+
