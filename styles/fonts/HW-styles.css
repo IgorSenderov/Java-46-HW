@@ -13,10 +13,11 @@ body {
 } */
 .logos-image {
     width: 15vw;
-    height: 10vw;
+    height: 15vw;
+    margin: 0 auto;
 }
 .details-image{
-    width: 400px;
+    width:auto;
    }
    .main-content{
        margin: 0 auto;
